@@ -1,0 +1,25 @@
+.deadOrAlive{
+  background-color : #FFF;
+  position: relative;
+}
+
+.bornToBeAlive {
+  font-weight: bold;
+  font-size: 5rem;
+  text-align: center;
+  margin: auto;
+}
+
+.youAreDead {
+  display:none;
+  background-color: black;
+  margin-top: 20rem;
+  text-align: center;
+  color : white;
+  font-weight: bold;
+  font-size: 5rem;
+}
+
+.er404{
+  font-size: 3rem;
+}
